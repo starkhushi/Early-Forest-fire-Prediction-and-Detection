@@ -1,4 +1,4 @@
-# **Flare Scan**
+# **Early Forest Fire Prediction and Detection**
 Welcome to the Early Forest Fire Prediction project! This repository houses the groundbreaking initiative aimed at leveraging IoT and AI technologies to safeguard our forests from devastating wildfires.
 
 ### Abstract
