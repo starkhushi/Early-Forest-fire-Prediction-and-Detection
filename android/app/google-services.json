@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "440866953244",
+    "firebase_url": "https://forestfire-7e17e-default-rtdb.firebaseio.com",
+    "project_id": "forestfire-7e17e",
+    "storage_bucket": "forestfire-7e17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440866953244:android:ea32dd0e31ff67aa9167d9",
+        "android_client_info": {
+          "package_name": "com.example.forest_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD84ya2ZluY1cbGCFpvjWnUSrFTkBOhwig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
