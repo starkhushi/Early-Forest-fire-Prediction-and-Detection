@@ -5,10 +5,10 @@
 #include"addons/TokenHelper.h"
 #include"addons/RTDBHelper.h"
 
-#define WIFI_SSID "Goldspear"
-#define WIFI_PASSWORD "Sonu@772"
-#define API_KEY "AIzaSyDX7pIGxpoUuibRxuzaCkz2qJEGBzaqLvs"
-#define DB_URL "https://forestfire-7e17e-default-rtdb.firebaseio.com/"
+#define WIFI_SSID "####"
+#define WIFI_PASSWORD "####"
+#define API_KEY "********"
+#define DB_URL "***********"
 
 FirebaseData fbdo;
 FirebaseAuth auth;  
